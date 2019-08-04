@@ -1,7 +1,10 @@
 PYTHON BASED COMPILER
+
  Main Objective:
 •	To design a python based compiler and make it work with multiple languages. But until feature update it only supports limited syntax of python.
+
 Requirements:
+
 Here we are using “rply” modules for Lexer and parser. “llvmlite” module for code generator.  And we are also using subprocess, random, string and tkinter modules.
 •	Python 3.7 or above
 •	 LLVM 8.0 ( http://releases.llvm.org/download.html )
@@ -9,8 +12,10 @@ Here we are using “rply” modules for Lexer and parser. “llvmlite” module
 •	LLC (LLVM static compiler)
 
 Design:
+
 Compiler Design | Introduction of Compiler design: https://www.geeksforgeeks.org/introduction-compiler-design/
 This compiler is divided into three sections namely: Lexer, Parser and Code Generator. 
+
 Lexer:
 •	Lexical analysis is the first phase of a compiler.
 •	Lexical analyzer breaks syntaxes into a series of tokens.
