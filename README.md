@@ -21,7 +21,9 @@ Compiler Design | Introduction of Compiler design: https://www.geeksforgeeks.org
 This compiler is divided into three sections namely: Lexer, Parser and Code Generator. 
 
 Lexer:
+
 •	Lexical analysis is the first phase of a compiler.
+
 •	Lexical analyzer breaks syntaxes into a series of tokens.
 
  
