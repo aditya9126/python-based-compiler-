@@ -37,6 +37,7 @@ Code Generator:
 The third and last component of out compiler is the Code Generator. It’s role is to transform the AST created from the parser into machine language or an IR. In this case, it’s going to transform the AST into LLVM IR.
 
 Resources:
+
 •	Writing your own programming language and compiler with Python: https://blog.usejournal.com/writing-your-own-programming-language-and-compiler-with-python-a468970ae6df 
 
 •	LLVMlite Documentation
